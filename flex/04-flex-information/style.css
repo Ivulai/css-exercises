@@ -12,6 +12,25 @@ img {
   font-weight: 900;
 }
 
+/* addition */
+body{
+  text-align: center;
+}
+
+.title{
+  margin-bottom: 32px;
+}
+
+.information{
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
+
+.info{
+  max-width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
